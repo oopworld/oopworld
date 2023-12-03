@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=Mysql&logoColor=white">
 
 
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)]
 
 </div>
