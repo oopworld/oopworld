@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **oopworld/oopworld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +16,7 @@ Here are some ideas to get you started:
 <div align="center">
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=OOPWorld&fontSize=90)
-## Hi there 👋
+## Hi there 👋백엔드 개발자 윤건하의 깃허브입니다.
 ### Welcome to OOPWORLD 
 
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
